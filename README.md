@@ -3,11 +3,11 @@
 <h1 align="center">Hey there! 👋, I'm Gustavo Ceballos :)</h1>
 <h3 align="center">A current Software Engineer Student</h3>
 
-- 🌱 I’m currently learning **Javascript, React.js, HTML and CSS**
+- 🌱 I’m currently learning **Java, Spring and Microservices**
 
-- 👯 I’m looking to collaborate on **Any project related to Web Development**
+- 👯 I’m looking to collaborate on **Any project related to Back development**
 
-- 💬 Let's talk about **React.js**
+- 💬 Let's talk about **Java**
 
 - 📫 How to reach me **gceballosm1704@gmail.com**
 <br>
@@ -15,12 +15,10 @@
 <p align="left">
 <hr>
 <h4>Programming Languages<h4>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" target="_blank" rel="noreferrer">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/](https://www.java.com/es/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fjava-23&psig=AOvVaw0pQI9LJx8-uku95oQE2JdP&ust=1685323090279000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICqvfPrlv8CFQAAAAAdAAAAABAEhttps://cdn.iconscout.com/icon/free/png-256/free-java-23-225999.png" alt="Java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://spring.io/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svghttps://niixer.com/wp-content/uploads/2020/11/spring-boot.png" alt="Java Spring Boot" width="40" height="40"/> </a>
 <br>
 <hr>
 <h4>Database<h4>
