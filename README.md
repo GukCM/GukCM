@@ -4,9 +4,10 @@
 
 ### Software Engineer · Facultad de Telemática · Universidad de Colima 🎓
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Ceballos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavoceballos)
-[![Gmail](https://img.shields.io/badge/Gmail-gustavoceballos%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoceballos@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@gustavoceballos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavoceballos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Ceballos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Gmail](https://img.shields.io/badge/Gmail-gceballosm1704%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gceballosm1704@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@GukCM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GukCM)
+[![Teléfono](https://img.shields.io/badge/Teléfono-312%20170%201245-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+523121701245)
 [![Colima](https://img.shields.io/badge/📍-Colima%2C%20México-green?style=for-the-badge)](https://maps.google.com/?q=Colima,Mexico)
 
 </div>
@@ -82,11 +83,11 @@
 
 <div align="center">
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoceballos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GukCM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoceballos&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GukCM&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gustavoceballos&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=GukCM&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -134,9 +135,11 @@
 
 | Canal | Info |
 |-------|------|
-| 📧 **Email** | [gustavoceballos@gmail.com](mailto:gustavoceballos@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/gustavoceballos](https://linkedin.com/in/gustavoceballos) |
-| 🐙 **GitHub** | [github.com/gustavoceballos](https://github.com/gustavoceballos) |
+| 📧 **Email** | [gceballosm1704@gmail.com](mailto:gceballosm1704@gmail.com) |
+| 📱 **Teléfono** | [+52 312 170 1245](tel:+523121701245) |
+| 💼 **LinkedIn** | [linkedin.com/in/GukCM](https://www.linkedin.com/feed/) |
+| 🐙 **GitHub** | [github.com/GukCM](https://github.com/GukCM) |
+| 📱 **Teléfono** | [+52 312 170 1245](tel:+523121701245) |
 | 📍 **Ubicación** | Colima, Colima, México 🇲🇽 |
 
 </div>
@@ -155,7 +158,7 @@ Facultad de Telemática — Universidad de Colima
 
 *"El buen código es su propia documentación."* — Steve McConnell
 
-![Profile Views](https://komarev.com/ghpvc/?username=gustavoceballos&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=GukCM&color=blue&style=for-the-badge)
 
 ⭐ Si algo de lo que hago te resulta útil, ¡no olvides dejar una estrella!
 
